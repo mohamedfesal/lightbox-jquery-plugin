@@ -6,9 +6,11 @@ jquery plugin to create easy and responsive image lightbox
  <ul>
    <br><b>
    <strong>How to use:<strong>
-     <p>import jquery library in your project</p>
-     <p>import lightbox-min.css and lightbox-min.js in your project</p>
-     <p>add "lightbox" class to your images</p>
+     <ul>
+     <li>import jquery library in your project</li>
+     <li>import lightbox-min.css and lightbox-min.js in your project</li>
+     <li>add "lightbox" class to your images</li>
+     </ul>
    <hr>
    <strong>By</strong>  Mohamed Faisal.
    <br>
