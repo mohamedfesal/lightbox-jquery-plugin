@@ -2,7 +2,7 @@
 jquery plugin to create easy and responsive image lightbox 
 
 <ul>
-  <li><strong>Dimo</strong> <a href="https://codepen.io/mohamedfesal/pen/JMQQJM">lightbox</a></li> 
+  <li><strong>Dimo</strong> <a href="https://codepen.io/mohamedfesal/full/JMQQJM/">lightbox</a></li> 
  <ul>
    <br><b>
    <strong>How to use:<strong>
